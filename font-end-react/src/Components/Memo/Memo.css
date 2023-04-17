@@ -1,0 +1,23 @@
+.memo {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    max-width: 250px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.memo aside {
+    text-align: right;
+    font-size: 0.6rem;
+}
+
+.memo #edit {
+    float: right;
+    font-size: 0.2rem;
+}
+
+#edit>* {
+    margin-top: 5px;
+    margin-left: 8px;
+}
